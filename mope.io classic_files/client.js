@@ -82,7 +82,7 @@
         r("LOCAL TEST", "127.0.0.1", o);
     else {
         var o = "USA";
-        r("TESTSERVER", "first-dart.glitch.me", o);
+        r("TESTSERVER", "mopetesting.glitch.me", o);
         ;
     }
     var h = 2;
