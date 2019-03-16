@@ -82,7 +82,7 @@
         r("LOCAL TEST", "127.0.0.1", o);
     else {
         var o = "USA";
-        r("TESTSERVER", "mopetesting.glitch.me", o);
+        r("TESTSERVER", "node18.codenvy.io:45580", o);
         ;
     }
     var h = 2;
